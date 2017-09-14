@@ -22,8 +22,7 @@
         <groupId>com.oracle.soa</groupId>
         <artifactId>sar-common</artifactId>
         <version>12.2.1-0-0</version>
-        <relativePath>C:\Users\rajes_000\.m2\repository\com\oracle\soa\sar-common\12.2.1-0-0\sar-common-12.2.1-0-0.pom</relativePath>
-    </parent>
+           </parent>
     
     <properties>
         <!-- these parameters are used by the compile goal -->
